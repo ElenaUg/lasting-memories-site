@@ -1,5 +1,4 @@
-
-.firstPage {
+.first_page {
     display: flex;
     background-image: url("../img/image.jpg");
     background-position: center;
@@ -10,6 +9,7 @@
     width: 100vw;
     height: 100vh;
 }
+
 nav {
     display: flex;
     flex-wrap: wrap;
@@ -37,6 +37,7 @@ a {
     padding-top: 275px;
     color: #ffffff;
 }
+
 .header {
     font-family: 'Roboto', sans-serif;
     word-spacing: 40px;
@@ -47,7 +48,7 @@ a {
     margin-bottom: 30px;
 }
 
-.secondPage {
+.second_page {
     display: flex;
     flex-wrap: wrap;
     /*height: 780px;*/
@@ -61,7 +62,7 @@ a {
     width: 600px;
     margin-left: 130px;
     align-self: center;
-    }
+}
 
 .desc {
     font-family: 'Work Sans', sans-serif;
@@ -79,7 +80,6 @@ a {
     justify-content: flex-start;
     align-items: center;
     margin-top: 70px;
-
 }
 
 button {
@@ -88,7 +88,6 @@ button {
     border: 1px solid #20201F;
     border-radius: 42px;
     background-color: #ffffff;
-
 }
 
 .btn p {
@@ -99,28 +98,27 @@ button {
     margin-right: 130px;
 }
 
-.firstPic {
+.first_pic {
     margin-top: 68px;
     margin-left: 250px;
 }
 
-.thirdPic {
+.third_pic {
     padding-top: 100px;
 }
 
 .block {
-     display: flex;
+    display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     padding-top: 100px;
 }
 
-.thirdPage {
+.third_page {
     display: flex;
     flex-wrap: wrap;
     background-color: #E5E2DE;
     justify-content: space-between;
-
 }
 
 .collection {
@@ -146,12 +144,12 @@ button {
     font-weight: 400;
     font-style: normal;
 }
+
 .deco {
-    color: #20201F
-;
+    color: #20201F;
 }
 
-.fourthPic {
+.fourth_pic {
     margin-top: 90px;
 }
 
@@ -161,7 +159,7 @@ button {
     margin-top: 260px;
 }
 
-.signStyle {
+.sign_style {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -169,13 +167,13 @@ button {
     color: #ffffff;
 }
 
-.signTwo {
+.sign_two {
     position: absolute;
     margin-left: 160px;
     margin-top: 160px;
 }
 
-.collectionTwo {
+.collection_two {
     margin-right: 130px;
     display: flex;
     flex-wrap: wrap;
@@ -183,7 +181,7 @@ button {
     align-self: center;
 }
 
-.fourthPage {
+.fourth_page {
     display: flex;
 }
 
@@ -193,8 +191,8 @@ input {
     margin-top: 20px;
     font-family: 'Work Sans', sans-serif;
     border: 1px solid #8B8B8B;
-    border-radius: 14.1964px;
-    color: #8B8B8B;;
+    border-radius: 15px;
+    color: #8B8B8B;
     font-style: normal;
     font-weight: 400;
     font-size: 19px;
@@ -205,11 +203,10 @@ input {
     margin-top: 37px;
 }
 
-.bck{
-    background: url("../img/back.jpg");
-    background-repeat: no-repeat;
+.bck {
+    background: url("../img/back.jpg") no-repeat;
     background-size: cover;
-    width:100vw;
+    width: 100vw;
     height: 840px;
 }
 
@@ -221,13 +218,15 @@ input {
     width: 90vw;
     margin-left: 130px;
 }
-.fifthPage {
+
+.fifth_page {
     display: flex;
     flex-wrap: wrap;
     background: #000000;
     justify-content: center;
     align-items: center;
 }
+
 .ceremonies {
     margin-left: 130px;
     margin-bottom: auto;
@@ -237,14 +236,14 @@ input {
 .terrace {
     display: flex;
     flex-direction: column;
-    margin-left:auto;
+    margin-left: auto;
     margin-top: 85px;
     width: 350px;
 }
 
 .meeting {
-      padding-left: 100px;
-      padding-bottom: 120px;
+    padding-left: 100px;
+    padding-bottom: 120px;
 }
 
 .heading {
@@ -257,7 +256,6 @@ input {
 .heading p {
     color: #E5E2DE;
     font-family: 'Roboto';
-
     font-style: normal;
     font-weight: 400;
     font-size: 68px;
@@ -268,7 +266,7 @@ input {
 .heading button {
     margin-top: 100px;
     border: 1px solid #E5E2DE;
-    border-radius: 41.6429px;
+    border-radius: 42px;
     width: 179px;
     height: 50px;
     font-family: 'Roboto';
@@ -280,12 +278,13 @@ input {
     background: black;
 }
 
-.sixthPage {
+.sixth_page {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 600px;
 }
+
 .joli {
     display: flex;
     flex-direction: column;
@@ -306,18 +305,18 @@ input {
     margin-top: 30px;
 }
 
-.seventhPage{
+.seventh_page {
     display: flex;
 }
-.marble{
-    background: url("../img/picnine.jpg");
-    background-repeat: no-repeat;
+
+.marble {
+    background: url("../img/picnine.jpg") no-repeat;
     background-size: cover;
-    width:100vw;
+    width: 100vw;
     height: 840px;
 }
 
-.ninthPage {
+.ninth_page {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -332,7 +331,8 @@ input {
     flex-direction: column;
     margin-right: 130px;
 }
-.email p{
+
+.email p {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -346,13 +346,12 @@ input {
     width: 342px;
     height: 62px;
     border: 1px solid #8B8B8B;
-    border-radius: 14.1964px;
+    border-radius: 14px;
     background: #E5E2DE;
     margin-bottom: 25px;
-
 }
 
-.email button{
+.email button {
     width: 495px;
     height: 40px;
     font-family: 'Work Sans';
@@ -386,7 +385,7 @@ input {
     margin-top: 25px;
 }
 
-.tenthPage {
+.tenth_page {
     display: flex;
     background: #20201F;
     flex-wrap: wrap;
@@ -398,6 +397,7 @@ input {
     padding-top: 40px;
     margin-bottom: auto;
 }
+
 .icon p {
     font-family: 'Questrial', sans-serif;
     font-size: 40px;
