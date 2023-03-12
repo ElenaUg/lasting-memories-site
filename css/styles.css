@@ -1,7 +1,7 @@
 
 .firstPage {
     display: flex;
-    background-image: url("../img/IMAGE.jpg");
+    background-image: url("../img/image.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -9,8 +9,6 @@
     flex-wrap: wrap;
     width: 100vw;
     height: 100vh;
-    /*height: 900px;*/
-
 }
 nav {
     display: flex;
