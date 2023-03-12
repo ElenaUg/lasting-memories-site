@@ -255,7 +255,7 @@ input {
 
 .heading p {
     color: #E5E2DE;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 68px;
@@ -269,7 +269,7 @@ input {
     border-radius: 42px;
     width: 179px;
     height: 50px;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 19px;
@@ -294,7 +294,7 @@ input {
 }
 
 .joli p {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 49px;
@@ -333,7 +333,7 @@ input {
 }
 
 .email p {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 19px;
@@ -354,7 +354,7 @@ input {
 .email button {
     width: 495px;
     height: 40px;
-    font-family: 'Work Sans';
+    font-family: 'Work Sans', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 19px;
@@ -362,13 +362,13 @@ input {
     color: #20201F;
     background: #E5E2DE;
     border: 1px solid #8B8B8B;
-    border-radius: 14.1964px;
+    border-radius: 14px;
 }
 
 .request {
     margin-left: 180px;
     color: #20201F;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 30px;
@@ -380,7 +380,7 @@ input {
     width: 107px;
     height: 50px;
     border: 1px solid #20201F;
-    border-radius: 41.6429px;
+    border-radius: 42px;
     background: #E5E2DE;
     margin-top: 25px;
 }
@@ -412,7 +412,7 @@ input {
 }
 
 .menu {
-    font-family: 'Work Sans';
+    font-family: 'Work Sans', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 19px;
@@ -437,7 +437,7 @@ input {
 }
 
 .vector p {
-    font-family: 'Work Sans';
+    font-family: 'Work Sans', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
