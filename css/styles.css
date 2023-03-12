@@ -1,7 +1,7 @@
 
 .firstPage {
     display: flex;
-    background-image: url("IMAGE.jpg");
+    background-image: url("../img/IMAGE.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -208,7 +208,7 @@ input {
 }
 
 .bck{
-    background: url("back.jpg");
+    background: url("../img/back.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width:100vw;
@@ -312,7 +312,7 @@ input {
     display: flex;
 }
 .marble{
-    background: url("picnine.jpg");
+    background: url("../img/picnine.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width:100vw;
